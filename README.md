@@ -1,5 +1,6 @@
 Mini-Projeto-Previsões com Séries Temporais e RNNs
 Introdução
+
 Neste mini-projeto, você realizará uma previsão de séries temporais usando um regressor com Rede Neural Recorrente. Usaremos dados reais para prever os futuros preços das ações da Apple usando um modelo RNN.
 
 Carregando os Dados
